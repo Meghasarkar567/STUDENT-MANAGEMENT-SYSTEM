@@ -1,0 +1,12 @@
+{
+    "megha": {
+        "Age": 21,
+        "Course": "b.tech",
+        "Marks": 78
+    },
+    "riya": {
+        "Age": 22,
+        "Course": "bca",
+        "Marks": 89
+    }
+}
